@@ -59,8 +59,8 @@ Enter encrypted file: ENCRYPTED.txt
 Enter decrypted file: DECRYPTED.txt
 Enter key (integer): 3
 Decryption successful!
+DECRYPTED.txt matches original PPA.txt.
 
-✔️ DECRYPTED.txt matches original PPA.txt.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 Authors
