@@ -63,9 +63,9 @@ DECRYPTED.txt matches original PPA.txt.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
-Authors
-
+Authors:
 Sandesh Khatal – MCA Student – Developer of Secure File Transfer Simulation
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📄 License
 This project is licensed under the MIT License.
