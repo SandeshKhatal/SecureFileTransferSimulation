@@ -38,10 +38,10 @@ SecureFileTransferSimulation/
 🔄 Workflow
 Plaintext File → Encrypt with DLL → Encrypted File → Transfer Simulation → Decrypt with DLL → Recovered File
 🚀 How to Run
-1.	1. Build DLL: Open ServerCipher project in Visual Studio and build to generate ServerCipher.dll.
-2.	2. Build Client App: Open ClientCipher project and build to generate ClientCipher.exe.
-3.	3. Place DLL with Client: Copy ServerCipher.dll into the same folder as ClientCipher.exe.
-4.	4. Run Simulation: Execute ClientCipher.exe
+1. Build DLL: Open ServerCipher project in Visual Studio and build to generate ServerCipher.dll.
+2. Build Client App: Open ClientCipher project and build to generate ClientCipher.exe.
+3. Place DLL with Client: Copy ServerCipher.dll into the same folder as ClientCipher.exe.
+4. Run Simulation: Execute ClientCipher.exe
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
